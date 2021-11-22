@@ -1,0 +1,9 @@
+C:\Users\fabio\source\repos\leetcode\ContactManager\bin\Debug\netcoreapp3.1\ContactManager.deps.json
+C:\Users\fabio\source\repos\leetcode\ContactManager\bin\Debug\netcoreapp3.1\ContactManager.dll
+C:\Users\fabio\source\repos\leetcode\ContactManager\bin\Debug\netcoreapp3.1\ContactManager.pdb
+C:\Users\fabio\source\repos\leetcode\ContactManager\obj\Debug\netcoreapp3.1\ContactManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\source\repos\leetcode\ContactManager\obj\Debug\netcoreapp3.1\ContactManager.AssemblyInfoInputs.cache
+C:\Users\fabio\source\repos\leetcode\ContactManager\obj\Debug\netcoreapp3.1\ContactManager.AssemblyInfo.cs
+C:\Users\fabio\source\repos\leetcode\ContactManager\obj\Debug\netcoreapp3.1\ContactManager.csproj.CoreCompileInputs.cache
+C:\Users\fabio\source\repos\leetcode\ContactManager\obj\Debug\netcoreapp3.1\ContactManager.dll
+C:\Users\fabio\source\repos\leetcode\ContactManager\obj\Debug\netcoreapp3.1\ContactManager.pdb

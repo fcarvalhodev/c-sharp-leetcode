@@ -1,0 +1,14 @@
+C:\Users\fabio\source\repos\leetcode\LongestSubstringApp\bin\Debug\netcoreapp3.1\LongestSubstringApp.exe
+C:\Users\fabio\source\repos\leetcode\LongestSubstringApp\bin\Debug\netcoreapp3.1\LongestSubstringApp.deps.json
+C:\Users\fabio\source\repos\leetcode\LongestSubstringApp\bin\Debug\netcoreapp3.1\LongestSubstringApp.runtimeconfig.json
+C:\Users\fabio\source\repos\leetcode\LongestSubstringApp\bin\Debug\netcoreapp3.1\LongestSubstringApp.runtimeconfig.dev.json
+C:\Users\fabio\source\repos\leetcode\LongestSubstringApp\bin\Debug\netcoreapp3.1\LongestSubstringApp.dll
+C:\Users\fabio\source\repos\leetcode\LongestSubstringApp\bin\Debug\netcoreapp3.1\LongestSubstringApp.pdb
+C:\Users\fabio\source\repos\leetcode\LongestSubstringApp\obj\Debug\netcoreapp3.1\LongestSubstringApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\source\repos\leetcode\LongestSubstringApp\obj\Debug\netcoreapp3.1\LongestSubstringApp.AssemblyInfoInputs.cache
+C:\Users\fabio\source\repos\leetcode\LongestSubstringApp\obj\Debug\netcoreapp3.1\LongestSubstringApp.AssemblyInfo.cs
+C:\Users\fabio\source\repos\leetcode\LongestSubstringApp\obj\Debug\netcoreapp3.1\LongestSubstringApp.csproj.CoreCompileInputs.cache
+C:\Users\fabio\source\repos\leetcode\LongestSubstringApp\obj\Debug\netcoreapp3.1\LongestSubstringApp.dll
+C:\Users\fabio\source\repos\leetcode\LongestSubstringApp\obj\Debug\netcoreapp3.1\LongestSubstringApp.pdb
+C:\Users\fabio\source\repos\leetcode\LongestSubstringApp\obj\Debug\netcoreapp3.1\LongestSubstringApp.genruntimeconfig.cache
+C:\Users\fabio\source\repos\leetcode\LongestSubstringApp\obj\Debug\netcoreapp3.1\LongestSubstringApp.csproj.AssemblyReference.cache

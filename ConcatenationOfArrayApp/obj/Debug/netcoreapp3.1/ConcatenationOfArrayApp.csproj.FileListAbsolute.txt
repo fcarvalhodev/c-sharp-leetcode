@@ -1,0 +1,14 @@
+C:\Users\fabio\source\repos\leetcode\ConcatenationOfArrayApp\bin\Debug\netcoreapp3.1\ConcatenationOfArrayApp.exe
+C:\Users\fabio\source\repos\leetcode\ConcatenationOfArrayApp\bin\Debug\netcoreapp3.1\ConcatenationOfArrayApp.deps.json
+C:\Users\fabio\source\repos\leetcode\ConcatenationOfArrayApp\bin\Debug\netcoreapp3.1\ConcatenationOfArrayApp.runtimeconfig.json
+C:\Users\fabio\source\repos\leetcode\ConcatenationOfArrayApp\bin\Debug\netcoreapp3.1\ConcatenationOfArrayApp.runtimeconfig.dev.json
+C:\Users\fabio\source\repos\leetcode\ConcatenationOfArrayApp\bin\Debug\netcoreapp3.1\ConcatenationOfArrayApp.dll
+C:\Users\fabio\source\repos\leetcode\ConcatenationOfArrayApp\bin\Debug\netcoreapp3.1\ConcatenationOfArrayApp.pdb
+C:\Users\fabio\source\repos\leetcode\ConcatenationOfArrayApp\obj\Debug\netcoreapp3.1\ConcatenationOfArrayApp.csproj.AssemblyReference.cache
+C:\Users\fabio\source\repos\leetcode\ConcatenationOfArrayApp\obj\Debug\netcoreapp3.1\ConcatenationOfArrayApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\source\repos\leetcode\ConcatenationOfArrayApp\obj\Debug\netcoreapp3.1\ConcatenationOfArrayApp.AssemblyInfoInputs.cache
+C:\Users\fabio\source\repos\leetcode\ConcatenationOfArrayApp\obj\Debug\netcoreapp3.1\ConcatenationOfArrayApp.AssemblyInfo.cs
+C:\Users\fabio\source\repos\leetcode\ConcatenationOfArrayApp\obj\Debug\netcoreapp3.1\ConcatenationOfArrayApp.csproj.CoreCompileInputs.cache
+C:\Users\fabio\source\repos\leetcode\ConcatenationOfArrayApp\obj\Debug\netcoreapp3.1\ConcatenationOfArrayApp.dll
+C:\Users\fabio\source\repos\leetcode\ConcatenationOfArrayApp\obj\Debug\netcoreapp3.1\ConcatenationOfArrayApp.pdb
+C:\Users\fabio\source\repos\leetcode\ConcatenationOfArrayApp\obj\Debug\netcoreapp3.1\ConcatenationOfArrayApp.genruntimeconfig.cache
