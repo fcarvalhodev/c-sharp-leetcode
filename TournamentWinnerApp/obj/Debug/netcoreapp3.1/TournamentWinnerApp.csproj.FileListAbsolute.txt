@@ -1,0 +1,13 @@
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\TournamentWinnerApp\bin\Debug\netcoreapp3.1\TournamentWinnerApp.exe
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\TournamentWinnerApp\bin\Debug\netcoreapp3.1\TournamentWinnerApp.deps.json
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\TournamentWinnerApp\bin\Debug\netcoreapp3.1\TournamentWinnerApp.runtimeconfig.json
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\TournamentWinnerApp\bin\Debug\netcoreapp3.1\TournamentWinnerApp.runtimeconfig.dev.json
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\TournamentWinnerApp\bin\Debug\netcoreapp3.1\TournamentWinnerApp.dll
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\TournamentWinnerApp\bin\Debug\netcoreapp3.1\TournamentWinnerApp.pdb
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\TournamentWinnerApp\obj\Debug\netcoreapp3.1\TournamentWinnerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\TournamentWinnerApp\obj\Debug\netcoreapp3.1\TournamentWinnerApp.AssemblyInfoInputs.cache
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\TournamentWinnerApp\obj\Debug\netcoreapp3.1\TournamentWinnerApp.AssemblyInfo.cs
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\TournamentWinnerApp\obj\Debug\netcoreapp3.1\TournamentWinnerApp.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\TournamentWinnerApp\obj\Debug\netcoreapp3.1\TournamentWinnerApp.dll
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\TournamentWinnerApp\obj\Debug\netcoreapp3.1\TournamentWinnerApp.pdb
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\TournamentWinnerApp\obj\Debug\netcoreapp3.1\TournamentWinnerApp.genruntimeconfig.cache

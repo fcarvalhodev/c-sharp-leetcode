@@ -1,0 +1,13 @@
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\InsertionSortApp\bin\Debug\netcoreapp3.1\InsertionSortApp.exe
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\InsertionSortApp\bin\Debug\netcoreapp3.1\InsertionSortApp.deps.json
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\InsertionSortApp\bin\Debug\netcoreapp3.1\InsertionSortApp.runtimeconfig.json
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\InsertionSortApp\bin\Debug\netcoreapp3.1\InsertionSortApp.runtimeconfig.dev.json
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\InsertionSortApp\bin\Debug\netcoreapp3.1\InsertionSortApp.dll
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\InsertionSortApp\bin\Debug\netcoreapp3.1\InsertionSortApp.pdb
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\InsertionSortApp\obj\Debug\netcoreapp3.1\InsertionSortApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\InsertionSortApp\obj\Debug\netcoreapp3.1\InsertionSortApp.AssemblyInfoInputs.cache
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\InsertionSortApp\obj\Debug\netcoreapp3.1\InsertionSortApp.AssemblyInfo.cs
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\InsertionSortApp\obj\Debug\netcoreapp3.1\InsertionSortApp.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\InsertionSortApp\obj\Debug\netcoreapp3.1\InsertionSortApp.dll
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\InsertionSortApp\obj\Debug\netcoreapp3.1\InsertionSortApp.pdb
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\InsertionSortApp\obj\Debug\netcoreapp3.1\InsertionSortApp.genruntimeconfig.cache

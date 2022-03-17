@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "rYYeWYn1zyRFzo9/JocFhYIQE2NDcY8hbHUVFXy9rr/CdDRBHG/ovK06ZqZJEJ3G0gjDNE2eGskXDxSpBYsxVg==",
+  "dgSpecHash": "Srp+ZIQkmO6Up/nFwBrUwmylTjoqXVhGeMSxZLyQNWfIfMeM9uRcxiLnX5GJ4oiYFRzp/a/fGlnaWb+0zkAkRA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fabio\\source\\repos\\leetcode\\GameMap\\GameMap.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\fabio\\Documents\\Workspace\\Pessoal\\leetcode\\GameMap\\GameMap.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fabio\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
   "logs": []
 }

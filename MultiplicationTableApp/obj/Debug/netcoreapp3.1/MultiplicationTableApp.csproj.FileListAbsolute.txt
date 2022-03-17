@@ -1,0 +1,14 @@
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\MultiplicationTableApp\bin\Debug\netcoreapp3.1\MultiplicationTableApp.exe
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\MultiplicationTableApp\bin\Debug\netcoreapp3.1\MultiplicationTableApp.deps.json
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\MultiplicationTableApp\bin\Debug\netcoreapp3.1\MultiplicationTableApp.runtimeconfig.json
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\MultiplicationTableApp\bin\Debug\netcoreapp3.1\MultiplicationTableApp.runtimeconfig.dev.json
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\MultiplicationTableApp\bin\Debug\netcoreapp3.1\MultiplicationTableApp.dll
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\MultiplicationTableApp\bin\Debug\netcoreapp3.1\MultiplicationTableApp.pdb
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\MultiplicationTableApp\obj\Debug\netcoreapp3.1\MultiplicationTableApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\MultiplicationTableApp\obj\Debug\netcoreapp3.1\MultiplicationTableApp.AssemblyInfoInputs.cache
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\MultiplicationTableApp\obj\Debug\netcoreapp3.1\MultiplicationTableApp.AssemblyInfo.cs
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\MultiplicationTableApp\obj\Debug\netcoreapp3.1\MultiplicationTableApp.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\MultiplicationTableApp\obj\Debug\netcoreapp3.1\MultiplicationTableApp.dll
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\MultiplicationTableApp\obj\Debug\netcoreapp3.1\MultiplicationTableApp.pdb
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\MultiplicationTableApp\obj\Debug\netcoreapp3.1\MultiplicationTableApp.genruntimeconfig.cache
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\MultiplicationTableApp\obj\Debug\netcoreapp3.1\MultiplicationTableApp.csproj.AssemblyReference.cache

@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "YBMHkjZu+fiIYpKhwQX1t3pz+To3pWKl/bvLeGu9dzZg2bzd1B6IARWrjPX9osSd413MUjgCvdtJ7uIzb+IT4g==",
+  "dgSpecHash": "lY7grxakUX6gSlaqmbouPfXDN85aVJ+Gbb61VaxUgYGIQHRlSWcijxttFw2GgGJaYPLZ4vf7CbpmzScOsedbGg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fabio\\source\\repos\\leetcode\\ArrayListApp\\ArrayListApp.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\fabio\\Documents\\Workspace\\Pessoal\\leetcode\\ArrayListApp\\ArrayListApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fabio\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,0 +1,14 @@
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\Pothole\bin\Debug\netcoreapp3.1\Pothole.exe
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\Pothole\bin\Debug\netcoreapp3.1\Pothole.deps.json
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\Pothole\bin\Debug\netcoreapp3.1\Pothole.runtimeconfig.json
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\Pothole\bin\Debug\netcoreapp3.1\Pothole.runtimeconfig.dev.json
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\Pothole\bin\Debug\netcoreapp3.1\Pothole.dll
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\Pothole\bin\Debug\netcoreapp3.1\Pothole.pdb
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\Pothole\obj\Debug\netcoreapp3.1\Pothole.csproj.AssemblyReference.cache
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\Pothole\obj\Debug\netcoreapp3.1\Pothole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\Pothole\obj\Debug\netcoreapp3.1\Pothole.AssemblyInfoInputs.cache
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\Pothole\obj\Debug\netcoreapp3.1\Pothole.AssemblyInfo.cs
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\Pothole\obj\Debug\netcoreapp3.1\Pothole.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\Pothole\obj\Debug\netcoreapp3.1\Pothole.dll
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\Pothole\obj\Debug\netcoreapp3.1\Pothole.pdb
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\Pothole\obj\Debug\netcoreapp3.1\Pothole.genruntimeconfig.cache

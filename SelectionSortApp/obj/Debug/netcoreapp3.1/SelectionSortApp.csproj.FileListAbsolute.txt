@@ -1,0 +1,14 @@
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\SelectionSortApp\bin\Debug\netcoreapp3.1\SelectionSortApp.exe
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\SelectionSortApp\bin\Debug\netcoreapp3.1\SelectionSortApp.deps.json
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\SelectionSortApp\bin\Debug\netcoreapp3.1\SelectionSortApp.runtimeconfig.json
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\SelectionSortApp\bin\Debug\netcoreapp3.1\SelectionSortApp.runtimeconfig.dev.json
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\SelectionSortApp\bin\Debug\netcoreapp3.1\SelectionSortApp.dll
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\SelectionSortApp\bin\Debug\netcoreapp3.1\SelectionSortApp.pdb
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\SelectionSortApp\obj\Debug\netcoreapp3.1\SelectionSortApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\SelectionSortApp\obj\Debug\netcoreapp3.1\SelectionSortApp.AssemblyInfoInputs.cache
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\SelectionSortApp\obj\Debug\netcoreapp3.1\SelectionSortApp.AssemblyInfo.cs
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\SelectionSortApp\obj\Debug\netcoreapp3.1\SelectionSortApp.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\SelectionSortApp\obj\Debug\netcoreapp3.1\SelectionSortApp.dll
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\SelectionSortApp\obj\Debug\netcoreapp3.1\SelectionSortApp.pdb
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\SelectionSortApp\obj\Debug\netcoreapp3.1\SelectionSortApp.genruntimeconfig.cache
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\SelectionSortApp\obj\Debug\netcoreapp3.1\SelectionSortApp.csproj.AssemblyReference.cache

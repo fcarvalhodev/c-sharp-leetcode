@@ -1,0 +1,13 @@
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\TwoSum\bin\Debug\netcoreapp3.1\TwoSum.exe
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\TwoSum\bin\Debug\netcoreapp3.1\TwoSum.deps.json
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\TwoSum\bin\Debug\netcoreapp3.1\TwoSum.runtimeconfig.json
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\TwoSum\bin\Debug\netcoreapp3.1\TwoSum.runtimeconfig.dev.json
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\TwoSum\bin\Debug\netcoreapp3.1\TwoSum.dll
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\TwoSum\bin\Debug\netcoreapp3.1\TwoSum.pdb
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\TwoSum\obj\Debug\netcoreapp3.1\TwoSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\TwoSum\obj\Debug\netcoreapp3.1\TwoSum.AssemblyInfoInputs.cache
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\TwoSum\obj\Debug\netcoreapp3.1\TwoSum.AssemblyInfo.cs
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\TwoSum\obj\Debug\netcoreapp3.1\TwoSum.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\TwoSum\obj\Debug\netcoreapp3.1\TwoSum.dll
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\TwoSum\obj\Debug\netcoreapp3.1\TwoSum.pdb
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\TwoSum\obj\Debug\netcoreapp3.1\TwoSum.genruntimeconfig.cache

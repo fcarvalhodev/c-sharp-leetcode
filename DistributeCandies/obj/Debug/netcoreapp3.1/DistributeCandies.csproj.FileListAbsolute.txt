@@ -1,0 +1,13 @@
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\DistributeCandies\bin\Debug\netcoreapp3.1\DistributeCandies.exe
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\DistributeCandies\bin\Debug\netcoreapp3.1\DistributeCandies.deps.json
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\DistributeCandies\bin\Debug\netcoreapp3.1\DistributeCandies.runtimeconfig.json
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\DistributeCandies\bin\Debug\netcoreapp3.1\DistributeCandies.runtimeconfig.dev.json
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\DistributeCandies\bin\Debug\netcoreapp3.1\DistributeCandies.dll
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\DistributeCandies\bin\Debug\netcoreapp3.1\DistributeCandies.pdb
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\DistributeCandies\obj\Debug\netcoreapp3.1\DistributeCandies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\DistributeCandies\obj\Debug\netcoreapp3.1\DistributeCandies.AssemblyInfoInputs.cache
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\DistributeCandies\obj\Debug\netcoreapp3.1\DistributeCandies.AssemblyInfo.cs
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\DistributeCandies\obj\Debug\netcoreapp3.1\DistributeCandies.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\DistributeCandies\obj\Debug\netcoreapp3.1\DistributeCandies.dll
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\DistributeCandies\obj\Debug\netcoreapp3.1\DistributeCandies.pdb
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\DistributeCandies\obj\Debug\netcoreapp3.1\DistributeCandies.genruntimeconfig.cache

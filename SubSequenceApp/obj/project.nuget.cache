@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "OegGIGa03zlaKV/KMfJNAl9icsCqr6cWpbaimU9gOU9q5LJsfOlFmGXcnONrbd2UUSb82nYy+aHo705PL/j+GQ==",
+  "dgSpecHash": "s7KMGh/P7g3Y54AoTo+ZPYBg2STdpAQini878a9xr4KaKOvrX2xhS5LJ4zDVFN5EUxxXRtTqDqPQzjz7mBWvOw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fabio\\source\\repos\\leetcode\\SubSequenceApp\\SubSequenceApp.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\fabio\\Documents\\Workspace\\Pessoal\\leetcode\\SubSequenceApp\\SubSequenceApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fabio\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
   "logs": []
 }

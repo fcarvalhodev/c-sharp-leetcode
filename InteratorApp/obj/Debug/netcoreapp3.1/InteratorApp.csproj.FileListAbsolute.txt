@@ -1,0 +1,13 @@
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\InteratorApp\bin\Debug\netcoreapp3.1\InteratorApp.exe
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\InteratorApp\bin\Debug\netcoreapp3.1\InteratorApp.deps.json
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\InteratorApp\bin\Debug\netcoreapp3.1\InteratorApp.runtimeconfig.json
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\InteratorApp\bin\Debug\netcoreapp3.1\InteratorApp.runtimeconfig.dev.json
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\InteratorApp\bin\Debug\netcoreapp3.1\InteratorApp.dll
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\InteratorApp\bin\Debug\netcoreapp3.1\InteratorApp.pdb
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\InteratorApp\obj\Debug\netcoreapp3.1\InteratorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\InteratorApp\obj\Debug\netcoreapp3.1\InteratorApp.AssemblyInfoInputs.cache
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\InteratorApp\obj\Debug\netcoreapp3.1\InteratorApp.AssemblyInfo.cs
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\InteratorApp\obj\Debug\netcoreapp3.1\InteratorApp.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\InteratorApp\obj\Debug\netcoreapp3.1\InteratorApp.dll
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\InteratorApp\obj\Debug\netcoreapp3.1\InteratorApp.pdb
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\InteratorApp\obj\Debug\netcoreapp3.1\InteratorApp.genruntimeconfig.cache

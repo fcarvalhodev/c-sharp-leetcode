@@ -11,3 +11,17 @@ C:\Users\fabio\source\repos\leetcode\PalindromeNumber\obj\Debug\netcoreapp3.1\Pa
 C:\Users\fabio\source\repos\leetcode\PalindromeNumber\obj\Debug\netcoreapp3.1\PalindromeNumber.dll
 C:\Users\fabio\source\repos\leetcode\PalindromeNumber\obj\Debug\netcoreapp3.1\PalindromeNumber.pdb
 C:\Users\fabio\source\repos\leetcode\PalindromeNumber\obj\Debug\netcoreapp3.1\PalindromeNumber.genruntimeconfig.cache
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\PalindromeNumber\bin\Debug\netcoreapp3.1\PalindromeNumber.exe
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\PalindromeNumber\bin\Debug\netcoreapp3.1\PalindromeNumber.deps.json
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\PalindromeNumber\bin\Debug\netcoreapp3.1\PalindromeNumber.runtimeconfig.json
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\PalindromeNumber\bin\Debug\netcoreapp3.1\PalindromeNumber.runtimeconfig.dev.json
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\PalindromeNumber\bin\Debug\netcoreapp3.1\PalindromeNumber.dll
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\PalindromeNumber\bin\Debug\netcoreapp3.1\PalindromeNumber.pdb
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\PalindromeNumber\obj\Debug\netcoreapp3.1\PalindromeNumber.csproj.AssemblyReference.cache
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\PalindromeNumber\obj\Debug\netcoreapp3.1\PalindromeNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\PalindromeNumber\obj\Debug\netcoreapp3.1\PalindromeNumber.AssemblyInfoInputs.cache
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\PalindromeNumber\obj\Debug\netcoreapp3.1\PalindromeNumber.AssemblyInfo.cs
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\PalindromeNumber\obj\Debug\netcoreapp3.1\PalindromeNumber.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\PalindromeNumber\obj\Debug\netcoreapp3.1\PalindromeNumber.dll
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\PalindromeNumber\obj\Debug\netcoreapp3.1\PalindromeNumber.pdb
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\PalindromeNumber\obj\Debug\netcoreapp3.1\PalindromeNumber.genruntimeconfig.cache

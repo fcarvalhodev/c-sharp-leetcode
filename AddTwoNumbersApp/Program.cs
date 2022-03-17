@@ -7,6 +7,13 @@ namespace AddTwoNumbersApp
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            int[] vs = { 1, 2, 3 };
+            int end = 3;
+            for(var i = 0; i < vs.Length; i++)
+            {
+                AddTwoNumbers(new ListNode(vs[i], new ListNode(end)), new ListNode(end));
+                end--;
+            }
         }
 
         public static ListNode AddTwoNumbers(ListNode l1, ListNode l2)
@@ -32,7 +39,8 @@ namespace AddTwoNumbersApp
             {
                 current.next = new ListNode(carry);
             }
-
+            Console.WriteLine("next");
+            Console.WriteLine(dummyHead.next.val);
             return dummyHead.next;
         }
     }

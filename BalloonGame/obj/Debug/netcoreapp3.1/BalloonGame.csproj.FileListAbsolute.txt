@@ -1,0 +1,14 @@
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\BalloonGame\obj\Debug\netcoreapp3.1\BalloonGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\BalloonGame\obj\Debug\netcoreapp3.1\BalloonGame.AssemblyInfoInputs.cache
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\BalloonGame\obj\Debug\netcoreapp3.1\BalloonGame.AssemblyInfo.cs
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\BalloonGame\obj\Debug\netcoreapp3.1\BalloonGame.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\BalloonGame\bin\Debug\netcoreapp3.1\BalloonGame.exe
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\BalloonGame\bin\Debug\netcoreapp3.1\BalloonGame.deps.json
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\BalloonGame\bin\Debug\netcoreapp3.1\BalloonGame.runtimeconfig.json
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\BalloonGame\bin\Debug\netcoreapp3.1\BalloonGame.runtimeconfig.dev.json
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\BalloonGame\bin\Debug\netcoreapp3.1\BalloonGame.dll
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\BalloonGame\bin\Debug\netcoreapp3.1\BalloonGame.pdb
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\BalloonGame\obj\Debug\netcoreapp3.1\BalloonGame.dll
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\BalloonGame\obj\Debug\netcoreapp3.1\BalloonGame.pdb
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\BalloonGame\obj\Debug\netcoreapp3.1\BalloonGame.genruntimeconfig.cache
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\BalloonGame\obj\Debug\netcoreapp3.1\BalloonGame.csproj.AssemblyReference.cache

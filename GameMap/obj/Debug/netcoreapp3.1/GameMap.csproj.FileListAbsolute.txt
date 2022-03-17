@@ -1,0 +1,13 @@
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\GameMap\bin\Debug\netcoreapp3.1\GameMap.exe
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\GameMap\bin\Debug\netcoreapp3.1\GameMap.deps.json
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\GameMap\bin\Debug\netcoreapp3.1\GameMap.runtimeconfig.json
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\GameMap\bin\Debug\netcoreapp3.1\GameMap.runtimeconfig.dev.json
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\GameMap\bin\Debug\netcoreapp3.1\GameMap.dll
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\GameMap\bin\Debug\netcoreapp3.1\GameMap.pdb
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\GameMap\obj\Debug\netcoreapp3.1\GameMap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\GameMap\obj\Debug\netcoreapp3.1\GameMap.AssemblyInfoInputs.cache
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\GameMap\obj\Debug\netcoreapp3.1\GameMap.AssemblyInfo.cs
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\GameMap\obj\Debug\netcoreapp3.1\GameMap.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\GameMap\obj\Debug\netcoreapp3.1\GameMap.dll
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\GameMap\obj\Debug\netcoreapp3.1\GameMap.pdb
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\GameMap\obj\Debug\netcoreapp3.1\GameMap.genruntimeconfig.cache

@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "1OCUeC8y8RDpYL+RWRIbpMeYOXZuFuuhRDtRBjvEP2JjeppYALM5wuYH2xCyYQCIWfCSg576uvwlYn2taVdFOA==",
+  "dgSpecHash": "U4jOEz9B1u5A46+cevueeVivkLsr9qKaixxL+qyfJyRuDZgqTmYTYllSxxvZQ+/2yEishM+SU4RS7sEw6WOv0A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fabio\\source\\repos\\leetcode\\RemoveLinkedListElementsApp\\RemoveLinkedListElementsApp.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\fabio\\Documents\\Workspace\\Pessoal\\leetcode\\RemoveLinkedListElementsApp\\RemoveLinkedListElementsApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fabio\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
   "logs": []
 }

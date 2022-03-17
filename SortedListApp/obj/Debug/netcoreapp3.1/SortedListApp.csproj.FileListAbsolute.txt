@@ -1,0 +1,13 @@
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\SortedListApp\bin\Debug\netcoreapp3.1\SortedListApp.exe
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\SortedListApp\bin\Debug\netcoreapp3.1\SortedListApp.deps.json
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\SortedListApp\bin\Debug\netcoreapp3.1\SortedListApp.runtimeconfig.json
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\SortedListApp\bin\Debug\netcoreapp3.1\SortedListApp.runtimeconfig.dev.json
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\SortedListApp\bin\Debug\netcoreapp3.1\SortedListApp.dll
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\SortedListApp\bin\Debug\netcoreapp3.1\SortedListApp.pdb
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\SortedListApp\obj\Debug\netcoreapp3.1\SortedListApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\SortedListApp\obj\Debug\netcoreapp3.1\SortedListApp.AssemblyInfoInputs.cache
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\SortedListApp\obj\Debug\netcoreapp3.1\SortedListApp.AssemblyInfo.cs
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\SortedListApp\obj\Debug\netcoreapp3.1\SortedListApp.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\SortedListApp\obj\Debug\netcoreapp3.1\SortedListApp.dll
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\SortedListApp\obj\Debug\netcoreapp3.1\SortedListApp.pdb
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\SortedListApp\obj\Debug\netcoreapp3.1\SortedListApp.genruntimeconfig.cache

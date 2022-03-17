@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Mruy4iAPGxootUZlB0y/CsedIwgoQw8qAWVtW3FILwV16jKJaKIaJf9bLNN+LkqKADHr1wJVQ58Yra1ecVLtfA==",
+  "dgSpecHash": "UXtYTxVwwRMF8d8iRE+uHcI+qVdE7yM+NOmskEW2RNbY6E7TbFp7993euch6UCtK+2iLYalkgYZE0zTUjlStfQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fabio\\source\\repos\\leetcode\\DoublyLinkedListApp\\DoublyLinkedListApp.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\fabio\\Documents\\Workspace\\Pessoal\\leetcode\\DoublyLinkedListApp\\DoublyLinkedListApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fabio\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
   "logs": []
 }

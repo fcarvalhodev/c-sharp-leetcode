@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "t+V3Px53R6zH0eyb27jFFtl2Gbx599aq782cZmeLupUhtWIAEplOiE4CrHfRA/DPeJ4uvGpo/JdyAGAZ4qR76g==",
+  "dgSpecHash": "6kRPZ37Cog8ZmIHc9fFdW5cnGizY4brHuzVVs6v8ag7GItOzq1oAZxbmx9ZVT6TiZANkgsi9Tb40/vNSVE5T0w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fabio\\source\\repos\\leetcode\\LongestSubstringApp\\LongestSubstringApp.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\fabio\\Documents\\Workspace\\Pessoal\\leetcode\\LongestSubstringApp\\LongestSubstringApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fabio\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
   "logs": []
 }

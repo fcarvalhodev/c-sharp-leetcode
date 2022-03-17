@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+Dupp09fed6uO15Lx8/StvPZs9e1XOu7xD+Nzz6JFwyjMur/j+3eeU3jAsO0PU0OV/vQNNdiQgvut5crm/24vw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fabio\\Documents\\Workspace\\Pessoal\\leetcode\\EcommerceOrder\\EcommerceOrder.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fabio\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

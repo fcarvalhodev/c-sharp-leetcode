@@ -1,0 +1,13 @@
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\SubSequenceApp\bin\Debug\netcoreapp3.1\SubSequenceApp.exe
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\SubSequenceApp\bin\Debug\netcoreapp3.1\SubSequenceApp.deps.json
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\SubSequenceApp\bin\Debug\netcoreapp3.1\SubSequenceApp.runtimeconfig.json
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\SubSequenceApp\bin\Debug\netcoreapp3.1\SubSequenceApp.runtimeconfig.dev.json
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\SubSequenceApp\bin\Debug\netcoreapp3.1\SubSequenceApp.dll
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\SubSequenceApp\bin\Debug\netcoreapp3.1\SubSequenceApp.pdb
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\SubSequenceApp\obj\Debug\netcoreapp3.1\SubSequenceApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\SubSequenceApp\obj\Debug\netcoreapp3.1\SubSequenceApp.AssemblyInfoInputs.cache
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\SubSequenceApp\obj\Debug\netcoreapp3.1\SubSequenceApp.AssemblyInfo.cs
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\SubSequenceApp\obj\Debug\netcoreapp3.1\SubSequenceApp.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\SubSequenceApp\obj\Debug\netcoreapp3.1\SubSequenceApp.dll
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\SubSequenceApp\obj\Debug\netcoreapp3.1\SubSequenceApp.pdb
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\SubSequenceApp\obj\Debug\netcoreapp3.1\SubSequenceApp.genruntimeconfig.cache

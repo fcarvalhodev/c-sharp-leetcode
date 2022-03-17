@@ -1,0 +1,13 @@
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\PrintWordForN\bin\Debug\netcoreapp3.1\PrintWordForN.exe
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\PrintWordForN\bin\Debug\netcoreapp3.1\PrintWordForN.deps.json
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\PrintWordForN\bin\Debug\netcoreapp3.1\PrintWordForN.runtimeconfig.json
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\PrintWordForN\bin\Debug\netcoreapp3.1\PrintWordForN.runtimeconfig.dev.json
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\PrintWordForN\bin\Debug\netcoreapp3.1\PrintWordForN.dll
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\PrintWordForN\bin\Debug\netcoreapp3.1\PrintWordForN.pdb
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\PrintWordForN\obj\Debug\netcoreapp3.1\PrintWordForN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\PrintWordForN\obj\Debug\netcoreapp3.1\PrintWordForN.AssemblyInfoInputs.cache
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\PrintWordForN\obj\Debug\netcoreapp3.1\PrintWordForN.AssemblyInfo.cs
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\PrintWordForN\obj\Debug\netcoreapp3.1\PrintWordForN.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\PrintWordForN\obj\Debug\netcoreapp3.1\PrintWordForN.dll
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\PrintWordForN\obj\Debug\netcoreapp3.1\PrintWordForN.pdb
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\PrintWordForN\obj\Debug\netcoreapp3.1\PrintWordForN.genruntimeconfig.cache

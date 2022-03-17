@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "868ac39b-a19b-4c2b-96bb-65e260196a3b": {
+      "ProjectGuid": "868ac39b-a19b-4c2b-96bb-65e260196a3b",
+      "DisplayName": "ArrayListApp",
+      "ColorIndex": 0
+    },
+    "0110a282-30fe-4b63-8183-2c1ea9800892": {
+      "ProjectGuid": "0110a282-30fe-4b63-8183-2c1ea9800892",
+      "DisplayName": "ConcatenationOfArrayApp",
+      "ColorIndex": 1
+    },
+    "c4643a6e-83e5-4ad1-b608-f03f14989878": {
+      "ProjectGuid": "c4643a6e-83e5-4ad1-b608-f03f14989878",
+      "DisplayName": "AddTwoNumbersApp",
+      "ColorIndex": 2
+    },
+    "ba9ee8a4-971b-4a12-ad0c-5992fed15dbb": {
+      "ProjectGuid": "ba9ee8a4-971b-4a12-ad0c-5992fed15dbb",
+      "DisplayName": "DistributeCandies",
+      "ColorIndex": 3
+    },
+    "31fb0a77-ba55-44db-a789-575134dcd12a": {
+      "ProjectGuid": "31fb0a77-ba55-44db-a789-575134dcd12a",
+      "DisplayName": "SumOfDigits",
+      "ColorIndex": 4
+    },
+    "c9054653-0663-4ea9-beea-7ba36c0588df": {
+      "ProjectGuid": "c9054653-0663-4ea9-beea-7ba36c0588df",
+      "DisplayName": "SmallestInteger",
+      "ColorIndex": 5
+    },
+    "3fca08ca-b912-4f53-9bc2-004bcdab4c74": {
+      "ProjectGuid": "3fca08ca-b912-4f53-9bc2-004bcdab4c74",
+      "DisplayName": "SubSequenceApp",
+      "ColorIndex": 6
+    },
+    "4d4c57c1-7b7b-4613-8b5f-d76d901b8691": {
+      "ProjectGuid": "4d4c57c1-7b7b-4613-8b5f-d76d901b8691",
+      "DisplayName": "ValidateSubSequenceApp",
+      "ColorIndex": 7
+    },
+    "7ee03371-ad1d-49fc-a9b1-574f8bceb10c": {
+      "ProjectGuid": "7ee03371-ad1d-49fc-a9b1-574f8bceb10c",
+      "DisplayName": "LongestSubstringApp",
+      "ColorIndex": 8
+    },
+    "262742bf-845b-40d1-bd91-c98d5092246c": {
+      "ProjectGuid": "262742bf-845b-40d1-bd91-c98d5092246c",
+      "DisplayName": "BalloonGame",
+      "ColorIndex": 9
+    },
+    "48526eff-9749-42b0-8231-8d9042a86ec2": {
+      "ProjectGuid": "48526eff-9749-42b0-8231-8d9042a86ec2",
+      "DisplayName": "MinimalSubstring",
+      "ColorIndex": 10
+    },
+    "a4771c88-e082-4a96-ae19-7b912d039787": {
+      "ProjectGuid": "a4771c88-e082-4a96-ae19-7b912d039787",
+      "DisplayName": "Pothole",
+      "ColorIndex": 11
+    }
+  },
+  "NextColorIndex": 12
+}

@@ -1,0 +1,14 @@
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\SumOfDigits\bin\Debug\netcoreapp3.1\SumOfDigits.exe
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\SumOfDigits\bin\Debug\netcoreapp3.1\SumOfDigits.deps.json
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\SumOfDigits\bin\Debug\netcoreapp3.1\SumOfDigits.runtimeconfig.json
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\SumOfDigits\bin\Debug\netcoreapp3.1\SumOfDigits.runtimeconfig.dev.json
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\SumOfDigits\bin\Debug\netcoreapp3.1\SumOfDigits.dll
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\SumOfDigits\bin\Debug\netcoreapp3.1\SumOfDigits.pdb
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\SumOfDigits\obj\Debug\netcoreapp3.1\SumOfDigits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\SumOfDigits\obj\Debug\netcoreapp3.1\SumOfDigits.AssemblyInfoInputs.cache
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\SumOfDigits\obj\Debug\netcoreapp3.1\SumOfDigits.AssemblyInfo.cs
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\SumOfDigits\obj\Debug\netcoreapp3.1\SumOfDigits.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\SumOfDigits\obj\Debug\netcoreapp3.1\SumOfDigits.dll
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\SumOfDigits\obj\Debug\netcoreapp3.1\SumOfDigits.pdb
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\SumOfDigits\obj\Debug\netcoreapp3.1\SumOfDigits.genruntimeconfig.cache
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\SumOfDigits\obj\Debug\netcoreapp3.1\SumOfDigits.csproj.AssemblyReference.cache

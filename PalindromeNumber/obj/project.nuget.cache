@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "U8sXQC8vcDvkDefDmCS32jYQiMK4FWkGbj/D7VyAyyz5gZiLF9jy73WGCTQJsEg0H4C6cyqw+WbL9mN8gddAcA==",
+  "dgSpecHash": "6b51XljmFNL6wLg+5c67+5H1obja8YYz/h+by0ARl52IFu7Oweh/aatKc3ehkDzXHhP2rH0lBqGIuIKR4NfaKw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fabio\\source\\repos\\leetcode\\PalindromeNumber\\PalindromeNumber.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\fabio\\Documents\\Workspace\\Pessoal\\leetcode\\PalindromeNumber\\PalindromeNumber.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fabio\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
   "logs": []
 }

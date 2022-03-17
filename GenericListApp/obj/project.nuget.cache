@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "/av32cIf+uMQHhp+cuR4Gb/n24HhmNsc1SFegEuiX8YHHlEsW8/A/cgrrN8pdpRbTBQ660Hk+R31BFyLYYBYPg==",
+  "dgSpecHash": "Q27c9WmhbRMrNFVcKJNyLFBQ3WVSr42YPsUJmp3IR9JqLi/fTrrxoprNsvFzHALRNuR1XAspG+X6DK9Ub9R8Bg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fabio\\source\\repos\\leetcode\\GenericListApp\\GenericListApp.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\fabio\\Documents\\Workspace\\Pessoal\\leetcode\\GenericListApp\\GenericListApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fabio\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
   "logs": []
 }

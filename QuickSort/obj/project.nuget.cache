@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "9pK93Zs/9kq1KH6q9aP6XI65OReXa65ziomau295DndhZoA1Zjh3cnb1adoqjXKwiuLVby+IFDEDeZ91u2Qokw==",
+  "dgSpecHash": "0SbXVaAU0ZOJiSyI2nQO74GDQznjHckfExTxe0KsSScGz4G6+QcAXZFu+nWVWT2fR3aCb+xGdC7zKCW45AACLQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fabio\\source\\repos\\leetcode\\QuickSort\\QuickSort.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\fabio\\Documents\\Workspace\\Pessoal\\leetcode\\QuickSort\\QuickSort.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fabio\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
   "logs": []
 }

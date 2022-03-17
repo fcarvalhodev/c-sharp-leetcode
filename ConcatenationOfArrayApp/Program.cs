@@ -9,6 +9,8 @@ namespace ConcatenationOfArrayApp
         {
             Console.WriteLine("Hello World!");
             var result = GetConcatenation(new int[] { 1,2,3});
+            foreach (var element in result)
+                Console.WriteLine(element);
         }
 
         public static int[] GetConcatenation(int[] nums)

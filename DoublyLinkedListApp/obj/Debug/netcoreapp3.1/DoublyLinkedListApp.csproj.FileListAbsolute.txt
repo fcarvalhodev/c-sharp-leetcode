@@ -1,0 +1,13 @@
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\DoublyLinkedListApp\bin\Debug\netcoreapp3.1\DoublyLinkedListApp.exe
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\DoublyLinkedListApp\bin\Debug\netcoreapp3.1\DoublyLinkedListApp.deps.json
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\DoublyLinkedListApp\bin\Debug\netcoreapp3.1\DoublyLinkedListApp.runtimeconfig.json
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\DoublyLinkedListApp\bin\Debug\netcoreapp3.1\DoublyLinkedListApp.runtimeconfig.dev.json
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\DoublyLinkedListApp\bin\Debug\netcoreapp3.1\DoublyLinkedListApp.dll
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\DoublyLinkedListApp\bin\Debug\netcoreapp3.1\DoublyLinkedListApp.pdb
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\DoublyLinkedListApp\obj\Debug\netcoreapp3.1\DoublyLinkedListApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\DoublyLinkedListApp\obj\Debug\netcoreapp3.1\DoublyLinkedListApp.AssemblyInfoInputs.cache
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\DoublyLinkedListApp\obj\Debug\netcoreapp3.1\DoublyLinkedListApp.AssemblyInfo.cs
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\DoublyLinkedListApp\obj\Debug\netcoreapp3.1\DoublyLinkedListApp.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\DoublyLinkedListApp\obj\Debug\netcoreapp3.1\DoublyLinkedListApp.dll
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\DoublyLinkedListApp\obj\Debug\netcoreapp3.1\DoublyLinkedListApp.pdb
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\DoublyLinkedListApp\obj\Debug\netcoreapp3.1\DoublyLinkedListApp.genruntimeconfig.cache

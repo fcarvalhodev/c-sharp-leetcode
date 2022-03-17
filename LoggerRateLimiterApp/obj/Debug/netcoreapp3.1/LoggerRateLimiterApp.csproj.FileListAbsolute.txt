@@ -11,3 +11,17 @@ C:\Users\fabio\source\repos\leetcode\LoggerRateLimiterApp\obj\Debug\netcoreapp3.
 C:\Users\fabio\source\repos\leetcode\LoggerRateLimiterApp\obj\Debug\netcoreapp3.1\LoggerRateLimiterApp.dll
 C:\Users\fabio\source\repos\leetcode\LoggerRateLimiterApp\obj\Debug\netcoreapp3.1\LoggerRateLimiterApp.pdb
 C:\Users\fabio\source\repos\leetcode\LoggerRateLimiterApp\obj\Debug\netcoreapp3.1\LoggerRateLimiterApp.genruntimeconfig.cache
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\LoggerRateLimiterApp\bin\Debug\netcoreapp3.1\LoggerRateLimiterApp.exe
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\LoggerRateLimiterApp\bin\Debug\netcoreapp3.1\LoggerRateLimiterApp.deps.json
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\LoggerRateLimiterApp\bin\Debug\netcoreapp3.1\LoggerRateLimiterApp.runtimeconfig.json
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\LoggerRateLimiterApp\bin\Debug\netcoreapp3.1\LoggerRateLimiterApp.runtimeconfig.dev.json
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\LoggerRateLimiterApp\bin\Debug\netcoreapp3.1\LoggerRateLimiterApp.dll
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\LoggerRateLimiterApp\bin\Debug\netcoreapp3.1\LoggerRateLimiterApp.pdb
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\LoggerRateLimiterApp\obj\Debug\netcoreapp3.1\LoggerRateLimiterApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\LoggerRateLimiterApp\obj\Debug\netcoreapp3.1\LoggerRateLimiterApp.AssemblyInfoInputs.cache
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\LoggerRateLimiterApp\obj\Debug\netcoreapp3.1\LoggerRateLimiterApp.AssemblyInfo.cs
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\LoggerRateLimiterApp\obj\Debug\netcoreapp3.1\LoggerRateLimiterApp.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\LoggerRateLimiterApp\obj\Debug\netcoreapp3.1\LoggerRateLimiterApp.dll
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\LoggerRateLimiterApp\obj\Debug\netcoreapp3.1\LoggerRateLimiterApp.pdb
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\LoggerRateLimiterApp\obj\Debug\netcoreapp3.1\LoggerRateLimiterApp.genruntimeconfig.cache
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\LoggerRateLimiterApp\obj\Debug\netcoreapp3.1\LoggerRateLimiterApp.csproj.AssemblyReference.cache

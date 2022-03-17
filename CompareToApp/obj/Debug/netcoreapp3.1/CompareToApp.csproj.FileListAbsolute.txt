@@ -1,0 +1,13 @@
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\CompareToApp\bin\Debug\netcoreapp3.1\CompareToApp.exe
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\CompareToApp\bin\Debug\netcoreapp3.1\CompareToApp.deps.json
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\CompareToApp\bin\Debug\netcoreapp3.1\CompareToApp.runtimeconfig.json
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\CompareToApp\bin\Debug\netcoreapp3.1\CompareToApp.runtimeconfig.dev.json
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\CompareToApp\bin\Debug\netcoreapp3.1\CompareToApp.dll
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\CompareToApp\bin\Debug\netcoreapp3.1\CompareToApp.pdb
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\CompareToApp\obj\Debug\netcoreapp3.1\CompareToApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\CompareToApp\obj\Debug\netcoreapp3.1\CompareToApp.AssemblyInfoInputs.cache
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\CompareToApp\obj\Debug\netcoreapp3.1\CompareToApp.AssemblyInfo.cs
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\CompareToApp\obj\Debug\netcoreapp3.1\CompareToApp.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\CompareToApp\obj\Debug\netcoreapp3.1\CompareToApp.dll
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\CompareToApp\obj\Debug\netcoreapp3.1\CompareToApp.pdb
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\CompareToApp\obj\Debug\netcoreapp3.1\CompareToApp.genruntimeconfig.cache

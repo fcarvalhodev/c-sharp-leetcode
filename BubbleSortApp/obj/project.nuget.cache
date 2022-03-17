@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "b0txeWOt/6NY+yI2wKk7VQns20JPfpVeLn+nB0yNzjkrTMEYJmP277VulrHGCsskfI6vPZJsTbNcME/nqzMVzQ==",
+  "dgSpecHash": "sE4QHNa6YiHPS4VRhqna8/q0LdNIuV8tCLbI7PYO6DUozGuGvtaNmgiqRL9ub9bcEQEncbJDzevGQgX0J0M0Zg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fabio\\source\\repos\\leetcode\\BubbleSortApp\\BubbleSortApp.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\fabio\\Documents\\Workspace\\Pessoal\\leetcode\\BubbleSortApp\\BubbleSortApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fabio\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
   "logs": []
 }

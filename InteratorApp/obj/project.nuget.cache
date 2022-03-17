@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "WHMf4TaW5H1DZ4rOaBiqUjELjGBCHOrtOc4y0aszjF4D0XmYOzpbBlINt6iZWeYPqzmjsiCpHi4leQ/xzI0oCQ==",
+  "dgSpecHash": "B/utOckAepuGh5nWW5ScQbPvcmKEZXYiNZK1JKZyB4rjJdqmN8orudMzbOLPxyCA0oDA/Y/2/yz0euGLeYXJOA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fabio\\source\\repos\\leetcode\\InteratorApp\\InteratorApp.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\fabio\\Documents\\Workspace\\Pessoal\\leetcode\\InteratorApp\\InteratorApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fabio\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
   "logs": []
 }

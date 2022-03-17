@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "In5dMl+5bpP1Gva2DegV6TCz0+uWGN8mWDJ4EBjiZhme1/JfzGJlpFJ9eocViwcYb1CLHRe8gHyyThR6CtAemw==",
+  "dgSpecHash": "9rFZO6UCW4tsPxkEC/0gwCrRYY5vdJqG+x33U+TDz9Yy5J0BJ3gjq52QvOgZTV2Eeuj5y5qmtbv0bo05sIFyzA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fabio\\source\\repos\\leetcode\\LoggerRateLimiterApp\\LoggerRateLimiterApp.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\fabio\\Documents\\Workspace\\Pessoal\\leetcode\\LoggerRateLimiterApp\\LoggerRateLimiterApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fabio\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
   "logs": []
 }

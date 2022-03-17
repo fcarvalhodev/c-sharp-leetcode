@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "t7FXfGyT9iH9eszcOB6uixzH4Vm9j7i9DvKCpW/yfW5pAeArJ1RlYnuUzH8TNjUSkfiPn9QRKL3IT5cMHQ91+Q==",
+  "dgSpecHash": "HhnmAgUWpkLJ1GoBzwPy0IMEmUPQDXXps/zgUaARmfbGeeFtPZGwVzHFvoGcHkgnyzGXzlwT0J48TYqmGBKhhA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fabio\\source\\repos\\leetcode\\MultiplicationTableApp\\MultiplicationTableApp.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\fabio\\Documents\\Workspace\\Pessoal\\leetcode\\MultiplicationTableApp\\MultiplicationTableApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fabio\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
   "logs": []
 }
