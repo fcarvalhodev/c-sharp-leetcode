@@ -29,8 +29,8 @@ namespace EcommerceOrder
 
     public class Order
     {
-        private bool CanBeProcessed { get; set; }
-        private DateTime DateCreated { get; set; }
+        public bool CanBeProcessed { get; private set; }
+        public DateTime DateCreated { get; private set; }
         private Location Location { get; set; }
         private List<Item> Items { get; set; }
 
@@ -74,45 +74,62 @@ namespace EcommerceOrder
     public class Item
     {
         public bool CanBeShipped { get; private set; }
-        public Lazy<List<Item>> DependentItems { get; private set; }
-        public DependentItemStatus DependentItemStatus { get; private set; }
+        private Lazy<List<Item>> DependentItems { get; set; }
+        private DependentItemStatus DependentItemStatus { get; set; }
 
-        public Item(DependentItemStatus dependentItemStatus = DependentItemStatus.NotDependent)
+        public Item()
         {
-            DependentItemStatus = dependentItemStatus;
-            DependentItemsCanBeShipped();
+
         }
 
-        public void AddDependentItem(Item item)
+        public class ItemBuilder
         {
-            this.DependentItems.Value.Add(item);
-        }
+            private readonly Item _item = new Item();
 
-        public void AddDependentItemRange(List<Item> items)
-        {
-            this.DependentItems.Value.AddRange(items);
-        }
-
-        private void DependentItemsCanBeShipped()
-        {
-            if (this.DependentItems != null)
+            public ItemBuilder Item(DependentItemStatus dependentItemStatus = DependentItemStatus.NotDependent, bool canBeShipped = false)
             {
-                var allItemsAreAllowdToDispatch = this.DependentItems.Value.Any(x => x.CanBeShipped == false);
-                if (allItemsAreAllowdToDispatch)
+                this._item.DependentItemStatus = dependentItemStatus;
+                this._item.CanBeShipped = canBeShipped;
+                this._item.DependentItems = new Lazy<List<Item>>();
+                return this;
+            }
+
+            public ItemBuilder AddDependentItem(Item item)
+            {
+                this._item.DependentItems.Value.Add(item);
+                return this;
+            }
+
+
+            public ItemBuilder AddRangeDependentItem(List<Item> items)
+            {
+                this._item.DependentItems.Value.AddRange(items);
+                return this;
+            }
+
+            private void DependentItemsCanBeShipped()
+            {
+                if (this._item.DependentItems != null)
                 {
-                    if (DependentItemStatus == DependentItemStatus.NotDependent)
-                        CanBeShipped = true;
+                    var allItemsAreAllowdToDispatch = this._item.DependentItems.Value.Any(x => x.CanBeShipped == false);
+                    if (!allItemsAreAllowdToDispatch)
+                    {
+                        _item.CanBeShipped = true;
+                    }
                     else
-                        CanBeShipped = false;
-                }
-                else
-                {
-                    CanBeShipped = true;
+                    {
+                        if (this._item.DependentItemStatus == DependentItemStatus.NotDependent)
+                            _item.CanBeShipped = true;
+                        else
+                            _item.CanBeShipped = false;
+                    }
                 }
             }
-            else
+
+            public Item Build()
             {
-                this.DependentItems = new Lazy<List<Item>>();
+                this.DependentItemsCanBeShipped();
+                return _item;
             }
         }
     }
