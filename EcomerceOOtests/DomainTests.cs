@@ -164,10 +164,10 @@ namespace EcomerceOOtests
         {
             //Arrange
             Item item1 = new ItemBuilder().Item(DependentItemStatus.NotDependent, true).SetItemSize(new float[] { 3.3F, 0.8F, 2.25F }).Build();
-            Item item2 = new ItemBuilder().Item(DependentItemStatus.NotDependent, true).SetItemSize(new float[] { 0.4F, 1.2F, 0.7F }).Build();
+            Item item2 = new ItemBuilder().Item(DependentItemStatus.NotDependent, false).SetItemSize(new float[] { 0.4F, 1.2F, 0.7F }).Build();
             Item item3 = new ItemBuilder().Item(DependentItemStatus.NotDependent, true).SetItemSize(new float[] { 1.7F, 0.4F, 1.54F }).Build();
             Item item4 = new ItemBuilder().Item(DependentItemStatus.NotDependent, true).SetItemSize(new float[] { 0.4F, 0.6F, 2.66F }).Build();
-            Item item5 = new ItemBuilder().Item(DependentItemStatus.NotDependent, true).SetItemSize(new float[] { 4.7F, 1.4F, 0.31F }).Build();
+            Item item5 = new ItemBuilder().Item(DependentItemStatus.NotDependent, false).SetItemSize(new float[] { 4.7F, 1.4F, 0.31F }).Build();
             Item item6 = new ItemBuilder().Item(DependentItemStatus.NotDependent, true).SetItemSize(new float[] { 2.2F, 0.3F, 3.17F }).Build();
             Item item7 = new ItemBuilder().Item(DependentItemStatus.NotDependent, true).SetItemSize(new float[] { 0.9F, 1.1F, 1.86F }).Build();
             Item item8 = new ItemBuilder().Item(DependentItemStatus.NotDependent, true).SetItemSize(new float[] { 1.1F, 1.6F, 0.43F }).Build();

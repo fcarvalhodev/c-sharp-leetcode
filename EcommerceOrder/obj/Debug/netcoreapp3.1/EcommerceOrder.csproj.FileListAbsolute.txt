@@ -11,3 +11,4 @@ C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\EcommerceOrder\obj\Debug\net
 C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\EcommerceOrder\obj\Debug\netcoreapp3.1\EcommerceOrder.dll
 C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\EcommerceOrder\obj\Debug\netcoreapp3.1\EcommerceOrder.pdb
 C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\EcommerceOrder\obj\Debug\netcoreapp3.1\EcommerceOrder.genruntimeconfig.cache
+C:\Users\fabio\Documents\Workspace\Pessoal\leetcode\EcommerceOrder\obj\Debug\netcoreapp3.1\EcommerceOrder.csproj.AssemblyReference.cache
