@@ -119,17 +119,17 @@ namespace EcomerceOOtests
         public void Given_An_Item_With_DependentItem_ShouldNotBeShipped()
         {
             //Arrange
-            Item dependentItem = new ItemBuilder().Item(DependentItemStatus.NotDependent, true).Build();
-            Item dependentItem1 = new ItemBuilder().Item(DependentItemStatus.Dependent, true).Build();
+            Item dependentItem1 = new ItemBuilder().Item(DependentItemStatus.NotDependent, true).Build();
             Item dependentItem2 = new ItemBuilder().Item(DependentItemStatus.Dependent, true).Build();
+            Item dependentItem3 = new ItemBuilder().Item(DependentItemStatus.Dependent, true).Build();
             Item dependentItem4 = new ItemBuilder().Item(DependentItemStatus.Dependent, false).Build();
 
             //Act
             Item item = new ItemBuilder()
-                .Item()
-                .AddDependentItem(dependentItem)
+                .Item(DependentItemStatus.Dependent, true)
                 .AddDependentItem(dependentItem1)
                 .AddDependentItem(dependentItem2)
+                .AddDependentItem(dependentItem3)
                 .AddDependentItem(dependentItem4)
                 .Build();
 
@@ -157,6 +157,75 @@ namespace EcomerceOOtests
 
             //Assert
             Assert.IsTrue(item.CanBeShipped);
+        }
+
+        [TestMethod]
+        public void Given_An_ListOfItems_SizeMustReturnAMinQtdOfBox()
+        {
+            //Arrange
+            Item item1 = new ItemBuilder().Item(DependentItemStatus.NotDependent, true).SetItemSize(new float[] { 3.3F, 0.8F, 2.25F }).Build();
+            Item item2 = new ItemBuilder().Item(DependentItemStatus.NotDependent, true).SetItemSize(new float[] { 0.4F, 1.2F, 0.7F }).Build();
+            Item item3 = new ItemBuilder().Item(DependentItemStatus.NotDependent, true).SetItemSize(new float[] { 1.7F, 0.4F, 1.54F }).Build();
+            Item item4 = new ItemBuilder().Item(DependentItemStatus.NotDependent, true).SetItemSize(new float[] { 0.4F, 0.6F, 2.66F }).Build();
+            Item item5 = new ItemBuilder().Item(DependentItemStatus.NotDependent, true).SetItemSize(new float[] { 4.7F, 1.4F, 0.31F }).Build();
+            Item item6 = new ItemBuilder().Item(DependentItemStatus.NotDependent, true).SetItemSize(new float[] { 2.2F, 0.3F, 3.17F }).Build();
+            Item item7 = new ItemBuilder().Item(DependentItemStatus.NotDependent, true).SetItemSize(new float[] { 0.9F, 1.1F, 1.86F }).Build();
+            Item item8 = new ItemBuilder().Item(DependentItemStatus.NotDependent, true).SetItemSize(new float[] { 1.1F, 1.6F, 0.43F }).Build();
+            float[] BoxSize = new float[] { 6, 6, 4 };
+            int MinAmountOfBoxes = 0;
+            List<Item> ListItems = new List<Item>();
+            bool Start = true;
+
+            //Act
+            ListItems.Add(item1);
+            ListItems.Add(item2);
+            ListItems.Add(item3);
+            ListItems.Add(item4);
+            ListItems.Add(item5);
+            ListItems.Add(item6);
+            ListItems.Add(item7);
+            ListItems.Add(item8);
+
+            while (Start)
+            {
+                Start = false;
+                for (int i = 0; i < ListItems.Count - 1; i++)
+                {
+                    float aValue = ListItems[i].Size.Max();
+                    float bValue = ListItems[i + 1].Size.Max();
+                    if (bValue < aValue)
+                    {
+                        var temp = ListItems[i + 1];
+                        ListItems[i + 1] = ListItems[i];
+                        ListItems[i] = temp;
+                        Start = true;
+                    }
+                }
+            }
+
+            Start = true;
+            while (Start)
+            {
+                float CurrentBoxSize = 0;
+                Start = false;
+                for (int i = 0; i < ListItems.Count; i++)
+                {
+                    float aValue = ListItems[i].Size.Max();
+                    CurrentBoxSize += aValue;
+                    if (CurrentBoxSize > BoxSize.Max())
+                    {
+                        MinAmountOfBoxes += 1;
+                        CurrentBoxSize = 0;
+                        i--;
+                    }
+                }
+            }
+
+            if (MinAmountOfBoxes == 0)
+                MinAmountOfBoxes++;
+
+
+            Assert.AreEqual(MinAmountOfBoxes, 4);
         }
     }
 }

@@ -20,7 +20,8 @@ namespace EcommerceOrder
     public interface IOrderService
     {
         IEnumerable<Item> GetPriorityOrders();
-        IEnumerable<Order> GetOrders(bool AutomaticallyProcessed);
+        IEnumerable<Order> GetOrders();
+        int GetNumberOfBoxes();
     }
 
     #endregion
@@ -76,10 +77,10 @@ namespace EcommerceOrder
         public bool CanBeShipped { get; private set; }
         private Lazy<List<Item>> DependentItems { get; set; }
         private DependentItemStatus DependentItemStatus { get; set; }
+        public float[] Size { get; private set; }
 
         public Item()
         {
-
         }
 
         public class ItemBuilder
@@ -91,6 +92,17 @@ namespace EcommerceOrder
                 this._item.DependentItemStatus = dependentItemStatus;
                 this._item.CanBeShipped = canBeShipped;
                 this._item.DependentItems = new Lazy<List<Item>>();
+                this._item.Size = new float[3];
+                return this;
+            }
+
+            public ItemBuilder SetItemSize(float[] itemSize)
+            {
+                if (itemSize.Length != 3)
+                    throw new ArgumentException("The 'itemSize' length is invalid", "itemSize");
+
+                this._item.Size = itemSize;
+
                 return this;
             }
 
@@ -100,7 +112,6 @@ namespace EcommerceOrder
                 return this;
             }
 
-
             public ItemBuilder AddRangeDependentItem(List<Item> items)
             {
                 this._item.DependentItems.Value.AddRange(items);
@@ -109,7 +120,7 @@ namespace EcommerceOrder
 
             private void DependentItemsCanBeShipped()
             {
-                if (this._item.DependentItems != null)
+                if (this._item.DependentItems.Value.Count > 0)
                 {
                     var allItemsAreAllowdToDispatch = this._item.DependentItems.Value.Any(x => x.CanBeShipped == false);
                     if (!allItemsAreAllowdToDispatch)
