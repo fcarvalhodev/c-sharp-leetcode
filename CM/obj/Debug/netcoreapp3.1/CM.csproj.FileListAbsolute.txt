@@ -1,4 +1,0 @@
-C:\Users\fabio\source\repos\leetcode\CM\obj\Debug\netcoreapp3.1\CM.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\fabio\source\repos\leetcode\CM\obj\Debug\netcoreapp3.1\CM.AssemblyInfoInputs.cache
-C:\Users\fabio\source\repos\leetcode\CM\obj\Debug\netcoreapp3.1\CM.AssemblyInfo.cs
-C:\Users\fabio\source\repos\leetcode\CM\obj\Debug\netcoreapp3.1\CM.csproj.CoreCompileInputs.cache

@@ -7,6 +7,10 @@
 *.sln.docstates
 *.vs
 *.obj
+_ReSharper.*
+bin
+obj
+packages
 # Build results
 
 [Dd]ebug/
