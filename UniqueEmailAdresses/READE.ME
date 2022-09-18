@@ -1,0 +1,27 @@
+Problema: Único endereço de Email
+
+Cada email válido, consiste em um local name e um domain name, separado por um  sinal ‘@’. Além das letras em minúsculo, o email contém ou um ‘.’ ou ‘+’.
+
+Por exemplo, em “alice@leetcode.com”, “alice” é o local name, e “leetcode.com” é o domain name''.
+
+Se você adicionar pontos “.” entre um caractere no local name em alguma parte do endereço de email, o email será encaminhado para o mesmo endereço sem os pontos no local name. Mas tenha atenção porque essa regra não se aplica aos domain names.
+
+Por exemplo “alice.z@leetcode.com” e “alicez@leetcode.com” encaminham a mensagem para o mesmo endereço de email.
+
+Se você adicionar o sinal de soma “+” no local name, tudo após o sinal será ignorado. Isso permite que você filtre certos e-mails. Atenção, pois essa regra não se aplica a domain names.
+
+Por exemplo, “m.x+name@email.com”, encaminhará o e-mail para “my@email.com”.
+
+É possível usar ambas as regras ao mesmo tempo.
+
+Dado a um array de strings contendo e-mails, onde nós enviamos um email para cada e-mails[i], retorne o número de diferentes endereços que realmente recebem e-mails.
+Exemplo 1:
+
+Input: emails = ["test.email+alex@leetcode.com","test.e.mail+bob.cathy@leetcode.com", "testemail+david@lee.tcode.com"]
+Output: 2
+Explicação: "testemail@leetcode.com" e "testemail@lee.tcode.com", recebem e-mails.
+
+Exemplo 2
+
+Input:  Emails ["a@leetcode.com", "b@leetcode.com", "c@leetcode.com"]
+Output:: 3

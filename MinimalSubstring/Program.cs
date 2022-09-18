@@ -7,7 +7,6 @@ namespace MinimalSubstring
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
             var result = solution("dddd");
             Console.WriteLine(result);
         }
@@ -15,8 +14,8 @@ namespace MinimalSubstring
         static int solution(string S)
         {
             int result = (string.IsNullOrEmpty(S) ? 0 : 1);
-            char[] chars = S.ToCharArray();
 
+            char[] chars = S.ToCharArray();
             HashSet<char> lettersArr = new HashSet<char>();
 
             for (int i = 0; i < chars.Length; i++)

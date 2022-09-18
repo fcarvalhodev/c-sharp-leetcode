@@ -127,7 +127,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EcomerceOOtests", "Ecomerce
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UniqueEmailAdresses", "UniqueEmailAdresses", "{56EB1EC9-4363-4475-BCE1-A3F608FDF699}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniqueEmailAdresses", "UniqueEmailAdresses\UniqueEmailAdresses.csproj", "{71CB6BFF-F6F0-42F2-BF8B-EE561D191C80}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UniqueEmailAdresses", "UniqueEmailAdresses\UniqueEmailAdresses.csproj", "{71CB6BFF-F6F0-42F2-BF8B-EE561D191C80}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "OddEvenJump", "OddEvenJump", "{74B47450-041E-4CE9-8D9E-F781A156E2F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddEvenJumpProblem", "OddEvenJumpProblem\OddEvenJumpProblem.csproj", "{FAC470A3-6AEA-41EB-ABD0-6B2D182A7277}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -255,6 +259,10 @@ Global
 		{71CB6BFF-F6F0-42F2-BF8B-EE561D191C80}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{71CB6BFF-F6F0-42F2-BF8B-EE561D191C80}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{71CB6BFF-F6F0-42F2-BF8B-EE561D191C80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAC470A3-6AEA-41EB-ABD0-6B2D182A7277}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAC470A3-6AEA-41EB-ABD0-6B2D182A7277}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAC470A3-6AEA-41EB-ABD0-6B2D182A7277}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAC470A3-6AEA-41EB-ABD0-6B2D182A7277}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -319,6 +327,8 @@ Global
 		{06039536-150C-4113-8F47-9F05D497EFE5} = {7122CB2A-ABD1-48D1-9E97-DB9E9D2A191D}
 		{56EB1EC9-4363-4475-BCE1-A3F608FDF699} = {999A80C6-92D4-4E75-8B82-CF59AB1538C7}
 		{71CB6BFF-F6F0-42F2-BF8B-EE561D191C80} = {56EB1EC9-4363-4475-BCE1-A3F608FDF699}
+		{74B47450-041E-4CE9-8D9E-F781A156E2F7} = {999A80C6-92D4-4E75-8B82-CF59AB1538C7}
+		{FAC470A3-6AEA-41EB-ABD0-6B2D182A7277} = {74B47450-041E-4CE9-8D9E-F781A156E2F7}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {11090530-FBAE-4CD3-BACE-0AC5C671F49B}
