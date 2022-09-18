@@ -133,6 +133,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "OddEvenJump", "OddEvenJump"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddEvenJumpProblem", "OddEvenJumpProblem\OddEvenJumpProblem.csproj", "{FAC470A3-6AEA-41EB-ABD0-6B2D182A7277}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LicenseKeyFormatting", "LicenseKeyFormatting", "{3C6B6551-E2FA-4BFB-8397-D17568479658}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LicenseKeyFormattingProblem", "LicenseKeyFormattingProblem\LicenseKeyFormattingProblem.csproj", "{94BE7D5F-FD42-4DEF-9402-64174FB7AAB1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -263,6 +267,10 @@ Global
 		{FAC470A3-6AEA-41EB-ABD0-6B2D182A7277}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FAC470A3-6AEA-41EB-ABD0-6B2D182A7277}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FAC470A3-6AEA-41EB-ABD0-6B2D182A7277}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94BE7D5F-FD42-4DEF-9402-64174FB7AAB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94BE7D5F-FD42-4DEF-9402-64174FB7AAB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94BE7D5F-FD42-4DEF-9402-64174FB7AAB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94BE7D5F-FD42-4DEF-9402-64174FB7AAB1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -329,6 +337,8 @@ Global
 		{71CB6BFF-F6F0-42F2-BF8B-EE561D191C80} = {56EB1EC9-4363-4475-BCE1-A3F608FDF699}
 		{74B47450-041E-4CE9-8D9E-F781A156E2F7} = {999A80C6-92D4-4E75-8B82-CF59AB1538C7}
 		{FAC470A3-6AEA-41EB-ABD0-6B2D182A7277} = {74B47450-041E-4CE9-8D9E-F781A156E2F7}
+		{3C6B6551-E2FA-4BFB-8397-D17568479658} = {999A80C6-92D4-4E75-8B82-CF59AB1538C7}
+		{94BE7D5F-FD42-4DEF-9402-64174FB7AAB1} = {3C6B6551-E2FA-4BFB-8397-D17568479658}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {11090530-FBAE-4CD3-BACE-0AC5C671F49B}
