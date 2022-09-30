@@ -6,7 +6,6 @@ namespace TwoSum
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
             var result = TwoSum(new int[] { 3,2,4 }, 6);
         }
 

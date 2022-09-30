@@ -6,7 +6,6 @@ namespace BalloonGame
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
             solution("BAOOLLNNOLOLGBAX");
         }
 

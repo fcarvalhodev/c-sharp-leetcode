@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Collections;
 using System.Collections.Generic;
 
 namespace LoggerRateLimiterApp
@@ -8,7 +7,6 @@ namespace LoggerRateLimiterApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
             Logger logger = new Logger();
             logger.ShouldPrintMessage(1, "foo1");
             logger.ShouldPrintMessage(2, "foo2");

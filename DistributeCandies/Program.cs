@@ -6,7 +6,6 @@ namespace DistributeCandies
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
             int result = DistributeCandies(new int[] { 1, 1, 2, 2, 3, 3 });
         }
 

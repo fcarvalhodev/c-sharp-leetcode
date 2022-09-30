@@ -6,7 +6,6 @@ namespace SumOfDigits
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
             var result = solution(1234);
             Console.WriteLine(result);
         }
