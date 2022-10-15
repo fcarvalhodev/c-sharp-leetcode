@@ -29,7 +29,7 @@ namespace SmallestInteger
                     break;
                 }
             }
-
+            
             // If 1 is not present
             if (ptr == 0)
                 return 1;
