@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 
 namespace SumOfDigits
 {
@@ -12,6 +13,7 @@ namespace SumOfDigits
 
         static int sumOfDigits(int N)
         {
+            BitArray[]
             int sum = 0;
             while (N != 0)
             {

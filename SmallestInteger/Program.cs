@@ -13,6 +13,8 @@ namespace SmallestInteger
 
         static int solution(int[] A)
         {
+            //var arrString = N.ToString().Split("");
+            int[] Aint = Array.ConvertAll(A, c => (int)Char.GetNumericValue(c));
             return firstMissingPositive(A, A.Length);
         }
 
